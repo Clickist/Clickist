@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Clickist
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&height=60&lines=Hi%2C%20I'm%20Clickist" alt="Hi, I'm Clickist" />
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clickist&theme=nord_dark" width="700" alt="Profile Details" />
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clickist&theme=nord_dark" width="350" alt="Stats" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clickist&theme=nord_dark" width="350" alt="Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clickist&theme=nord_dark" width="345" alt="Stats" /><img src="spacer.gif" width="10" height="1" alt="" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clickist&theme=nord_dark" width="345" alt="Languages" />
 
 </div>
 
