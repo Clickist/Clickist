@@ -11,7 +11,7 @@
 - 🖱️ **[mousedle](https://github.com/Clickist/mousedle)** 作者——外设主题的猜鼠标 Wordle，支持实时多人对战 → [在线玩](https://play.gearclickist.com)
 - 🎵 **[resonance](https://github.com/Clickist/resonance)**——把 Apple Music 的播放次数变成一本编辑部风格的年度听歌报告
 - 📚 **[weread-omni](https://github.com/Clickist/weread-omni)**——微信读书 Agent Skill：一个入口 40 个操作，高亮、书架、导入都能读写
-- 🤖 折腾 AI 基建：[反诈 API 反代](https://github.com/Clickist/fanzha-ai-proxy)、[Gemini 免联网搜索](https://github.com/Clickist/gemini-auth-search)、[微信本地数据 CLI](https://github.com/Clickist/wx-cli)
+- 🤖 折腾 AI 基建：[反诈 API 反代](https://github.com/Clickist/fanzha-ai-proxy)、[Gemini 免联网搜索](https://github.com/Clickist/gemini-auth-search)
 - 🎯 FPS / aim trainer 深度玩家，KovaaK's 常驻
 - 📈 量化交易学习中，主修踩坑
 - ☁️ Cloudflare 全家桶用户，摄影修图业余选手
