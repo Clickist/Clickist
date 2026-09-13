@@ -1,18 +1,15 @@
 <div align="center">
 
-<a href="https://github.com/Clickist">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&height=60&lines=Hi%2C%20I'm%20Clickist%20%F0%9F%91%8B%3B%E9%BC%A0%E6%A0%87%20%C2%B7%20%E7%9E%84%E5%87%86%20%C2%B7%20%E9%87%8F%E5%8C%96%20%C2%B7%20%E6%8A%98%E8%85%BE" alt="Typing SVG" />
-</a>
+# Hi, I'm Clickist
 
 </div>
 
 ## 👋 关于我
 
-- 🖱️ **[mousedle](https://github.com/Clickist/mousedle)** 作者——外设主题的猜鼠标 Wordle，支持实时多人对战 → [在线玩](https://play.gearclickist.com)
-- 🎵 **[resonance](https://github.com/Clickist/resonance)**——把 Apple Music 的播放次数变成一本编辑部风格的年度听歌报告
-- 📚 **[weread-omni](https://github.com/Clickist/weread-omni)**——微信读书 Agent Skill：一个入口 40 个操作，高亮、书架、导入都能读写
-- 🤖 折腾 AI 基建：[反诈 API 反代](https://github.com/Clickist/fanzha-ai-proxy)、[Gemini 免联网搜索](https://github.com/Clickist/gemini-auth-search)
-- 🎯 FPS / aim trainer 深度玩家，KovaaK's 常驻
+- 🎯 **Aiming Cookie** —— 本地运行的 KovaaK's AI 瞄准教练：分析你的轨迹和击杀，给出训练处方 → [aimingcookie.com](https://aimingcookie.com)
+- 🖱️ **[mousedle](https://github.com/Clickist/mousedle)** —— 外设主题的猜鼠标 Wordle，支持实时多人对战 → [play.gearclickist.com](https://play.gearclickist.com)
+- 🎵 **[resonance](https://github.com/Clickist/resonance)** —— 把 Apple Music 的播放次数变成一本编辑部风格的年度听歌报告
+- 🔍 **[gemini-auth-search](https://github.com/Clickist/gemini-auth-search)** —— 基于 Gemini grounding 的免费联网搜索，Google OAuth 免 API key
 - 📈 量化交易学习中，主修踩坑
 - ☁️ Cloudflare 全家桶用户，摄影修图业余选手
 
@@ -35,10 +32,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clickist&theme=nord_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clickist&theme=nord_dark" width="700" alt="Profile Details" />
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clickist&theme=nord_dark" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clickist&theme=nord_dark" alt="Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clickist&theme=nord_dark" width="350" alt="Stats" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clickist&theme=nord_dark" width="350" alt="Languages" />
 
 </div>
 
@@ -46,7 +42,8 @@
 
 <div align="center">
 
+[![Bilibili](https://img.shields.io/badge/bilibili-%E4%B8%BB%E9%A1%B5-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/14425468)
+[![X](https://img.shields.io/badge/X-BinaryCook1e-black?style=flat-square&logo=x&logoColor=white)](https://x.com/BinaryCook1e)
 [![mousedle](https://img.shields.io/badge/%F0%9F%96%B1%EF%B8%8F%20mousedle-play.gearclickist.com-181717?style=flat-square)](https://play.gearclickist.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Clickist-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Clickist)
 
 </div>
